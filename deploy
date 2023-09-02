@@ -1,0 +1,13 @@
+#!/bin/sh
+USER=onigiri
+HOST=onigirionegai.info
+DIR=public_html
+DATE=$(date -Idate)
+
+hugo &&
+    git add -A &&
+	rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR} &&
+    git commit -am "build: ${DATE}" &&
+	git push
+
+exit 0

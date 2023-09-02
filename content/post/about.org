@@ -1,0 +1,25 @@
+#+TITLE: About Onigiri☆Onegai
+#+DATE: 2023-09-01T20:49:27-07:00
+#+DRAFT: false
+#+WEIGHT: 1
+#+DESCRIPTION:
+#+TAGS[]: about
+#+KEYWORDS[]: about, learn, new
+#+SLUG:
+#+SUMMARY:
+
+In short Onigiri☆Onegai is a group of creative individuals. Our mission is to bring our dreams alive, whatever they may be, using the talents available to us. Whether that means writing great stories, drawing awesome pictures, or creating mods for our favorite video games. It could even mean building websites or awesome rices! That's right, at least one of us is a Linux user. That one, may, or may not, be the one who is writing this page right now :wink:!
+
+* Who are we?
+Currently there are three users. Each one has a separate site which focus on different things. The sites are:
++ [[http://onigirionegai.info/~miu]], which focuses on mods and CC for the Sims 4
++ [[http://onigirionegai.info/~yayoi]], which focuses mostly on video games and art.
++ [[http://onigirionegai.info/]], this site which once focused on creating javascript-based visual novels, but now focuses on information and GNU/Linux rices.
+* Can you join?
+In short, yes! Actually the best way to get started is to join our [[http://fourms.onigirionegai.info]]. There you can start talking about your interests and let us know how you would like to contribute, or if there is any projects you think we could help you with. If any of us think your project is something we could contribute to, or if we think you can help us with our projects, then we'll add you as a contributor.
+* What are we working on?
+Right now, each of us has our own projects. We were coming together for the aforementioned VNs, but, sadly, we are too busy and too small to work one those. That isn't to say we don't plan on releasing them in the future, but we are looking at additional options. We still come together to help out, but, if you want to know what each of us are working on, it is best to check out the different sites linked above.
+* Any plans for the future?
+There are! We are weighing our options and trying to decide how we can best work together. We'll also be looking for additional contributors and collaborators who have ideas on how to best help us move forward. Right now, we all fairly busy though.
+* Are there any other ways to contribute?
+If you are not particularly good at programming, or art, or, like us, don't have much time, there is another way to contribute. We would like to be able to focus more on our projects. To do this we will need to, unfortunately, be able to take care of needs /without/ full-time jobs. At the moment we do have a [[https://www.patreon.com/bePatron?u=29802411&redirect_uri=https%3A%2F%2Fonigirionegai.info%2F&utm_medium=widget][Patreon]] available. It will get you access to pre-release content and special areas of the forums. We hope to expend perks as we are able to as well. We thank you for your support! Also, if Patreon doesn't seem like a good fit for you, at least one of us takes [[https://onigirionegai.info/~yayoi/commissions/][commissions]], this will still be a great support to her and to the group!
