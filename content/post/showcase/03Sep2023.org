@@ -1,0 +1,21 @@
+#+TITLE: Site Showcase: 03 Sep 2023
+#+DATE: 2023-09-03T12:10:10-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site news
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+Welcome to the inaugural episode of the very well titled and not completely stupidly named segment known as the "Site Showcase"! In this short post I will talk pick one post or article from one of our member sites to talk about. I mean we want their sites to be more discoverable, what better way to do that than to make showcase something I thought was cool about their site this week!
+
+Without further ado, let's talk about Yayoi! Well, more specifically, we'll talk about [[https://onigirionegai.info/~yayoi/commissions/][this post]]! While it would be easy, given how new this particular site is, to pick something here, I really want to showcase other members and Yayoi is looking for people to commission her! The post goes over the type of things that she is good at and the type of things she won't touch as well as how you can commission her. Of course she is a bit humble and doesn't really mention that she is actually a very good artists and you should really consider her if you need something drawn. I've known her for a bit and she actually did the old banner for the original site. I may even commission her to do a new one for this version of the site. Of course I can endorse her all I want, but I don't know if that really shows you how good of an artist she is. So, I think I'll show you. Here are a few samples of recent works from her [[https://onigirionegai.info/~yayoi/gallery/creations/][gallery]]
+
+#+ATTR_HTML: :width 34% :align left
+[[https://onigirionegai.info/~yayoi/gallery/creations/I%27llNeverLetGo.png]]
+#+ATTR_HTML: :width 33% :align left
+[[https://onigirionegai.info/~yayoi/gallery/creations/KotatsuKurisumasu.png]]
+#+ATTR_HTML: :width 33% :align left
+[[https://onigirionegai.info/~yayoi/gallery/creations/IwasThere.png]]
+
+Anyway, I hope you give her a change. Check out the original post on her [[https://onigirionegai.info/~yayoi/gallery/commissions/][website]] for more information on how to commission her. Also check out our [[https://forums.onigirionegai.info][forums]] if you would like to discuss this showcase or suggests other things you would like us to cover!
