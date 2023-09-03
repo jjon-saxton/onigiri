@@ -1,0 +1,8 @@
+#+title: Onigiri☆Onegai
+#+author: Jon Saxton
+
+Hello and welcome!
+
+This document explains the point of this GitHub repository. Strictly speaking, this repository holds important raw Org-mode documents, configuration files, theme files, and final processed files for the new Onigiri Onegai website. This new website is designed to use a more blog-like style and is been built using Hugo. Without Hugo the raw files are essentially useless. If you would like to contribute to the website, please visit the site itself or contact me directly. I will *not* accept pull requests for this repository.
+
+If you need more information on Onigiri Onegai, such as who we are, you're more than welcome to check out the website itself as well. Specifically, we have an [[http://onigirionegai.info/about][about page]]. This document only explains this repository, explaining the organization or other projects is beyond the scope of this document!
