@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.116.1">Hugo</generator>
     <title>Onigiri☆Onegai</title>
-            <link href="http://localhost/" rel="alternate" type="text/html" title="html" />
-            <link href="http://localhost/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-09-03T21:02:55-07:00</updated>
-    <id>http://localhost/</id>
+            <link href="http://onigirionegai.info/~onigiri/" rel="alternate" type="text/html" title="html" />
+            <link href="http://onigirionegai.info/~onigiri/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2023-09-03T21:07:33-07:00</updated>
+    <id>http://onigirionegai.info/~onigiri/</id>
         <entry>
             <title>About Onigiri☆Onegai</title>
-            <link href="http://localhost/post/about/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost/post/about/</id>
+            <link href="http://onigirionegai.info/~onigiri/post/about/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/~onigiri/post/about/</id>
             <published>2023-09-01T20:49:27-07:00</published>
             <updated>2023-09-01T20:49:27-07:00</updated>
             <content type="html">
@@ -63,12 +63,12 @@ Are there any other ways to contribute?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://localhost/tags/about" term="about" label="about" />
+                                <category scheme="http://onigirionegai.info/~onigiri/tags/about" term="about" label="about" />
         </entry>
         <entry>
             <title>Site Showcase: 03 Sep 2023</title>
-            <link href="http://localhost/post/showcase/03Sep2023/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost/post/showcase/03Sep2023/</id>
+            <link href="http://onigirionegai.info/~onigiri/post/showcase/03Sep2023/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/~onigiri/post/showcase/03Sep2023/</id>
             <published>2023-09-03T12:10:10-07:00</published>
             <updated>2023-09-03T12:10:10-07:00</updated>
             <content type="html">
@@ -83,13 +83,13 @@ Without further ado, let&amp;#39;s talk about Yayoi! Well, more specifically, we
 Anyway, I hope you give her a change. Check out the original post on her &lt;a href=&#34;https://onigirionegai.info/~yayoi/gallery/commissions/&#34;&gt;website&lt;/a&gt; for more information on how to commission her. Also check out our &lt;a href=&#34;https://forums.onigirionegai.info&#34;&gt;forums&lt;/a&gt; if you would like to discuss this showcase or suggests other things you would like us to cover!&lt;/p&gt;
 
             </content>   
-                                <category scheme="http://localhost/tags/site" term="site" label="site" /> 
-                                <category scheme="http://localhost/tags/news" term="news" label="news" />
+                                <category scheme="http://onigirionegai.info/~onigiri/tags/site" term="site" label="site" /> 
+                                <category scheme="http://onigirionegai.info/~onigiri/tags/news" term="news" label="news" />
         </entry>
         <entry>
             <title>We are making some changes!</title>
-            <link href="http://localhost/post/changes/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost/post/changes/</id>
+            <link href="http://onigirionegai.info/~onigiri/post/changes/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/~onigiri/post/changes/</id>
             <published>2023-09-03T11:40:20-07:00</published>
             <updated>2023-09-03T11:40:20-07:00</updated>
             <content type="html">
@@ -108,7 +108,7 @@ As you have no doubt noticed, the site is different than it was before. We are m
 We no longer have the time…
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;Sadly we have all become much busier as our lives have moved on and we are not able to provide the time and attention we once dreamt of when we came together. Rather than deciding to close the site, however, I decided to leave it open. It will now serve as a launchpad of discovery. I will blog about my own small projects and about the state of my collaborator&amp;#39;s projects. They may be smaller, but we are not just sitting on our hands. We simply need to be able to live and the types of large projects that cannot provide income at the moment are not things we can focus too much time on. We hope, that, in the future, we will be able to come together again. I talk a little about this on the &lt;a href=&#34;http://localhost/post/about/&#34;&gt;about page&lt;/a&gt; and will elaborate further a little later. Please have patience with us and don&amp;#39;t forget to check out our other sites!&lt;/p&gt;
+&lt;p&gt;Sadly we have all become much busier as our lives have moved on and we are not able to provide the time and attention we once dreamt of when we came together. Rather than deciding to close the site, however, I decided to leave it open. It will now serve as a launchpad of discovery. I will blog about my own small projects and about the state of my collaborator&amp;#39;s projects. They may be smaller, but we are not just sitting on our hands. We simply need to be able to live and the types of large projects that cannot provide income at the moment are not things we can focus too much time on. We hope, that, in the future, we will be able to come together again. I talk a little about this on the &lt;a href=&#34;http://onigirionegai.info/~onigiri/post/about/&#34;&gt;about page&lt;/a&gt; and will elaborate further a little later. Please have patience with us and don&amp;#39;t forget to check out our other sites!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
@@ -124,7 +124,7 @@ The domain is .info, should it should be information-focused, right?
 We each have our own websites and would like those to be more discoverable
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;One look at the home page and you&amp;#39;ll find a pinned post, this is the aforementioned &lt;a href=&#34;http://localhost/post/about/&#34;&gt;about page&lt;/a&gt;. That page lists the sites that each of us now work on. Within a couple of clicks we now have a list of sub-sites. These were not even mentioned previously. It was up to each member to promote their personal sites even if they were hosted here. This is now no longer the case. So be sure to check them out! Now onto that last point that I mentioned just one paragraph ago.&lt;/p&gt;
+&lt;p&gt;One look at the home page and you&amp;#39;ll find a pinned post, this is the aforementioned &lt;a href=&#34;http://onigirionegai.info/~onigiri/post/about/&#34;&gt;about page&lt;/a&gt;. That page lists the sites that each of us now work on. Within a couple of clicks we now have a list of sub-sites. These were not even mentioned previously. It was up to each member to promote their personal sites even if they were hosted here. This is now no longer the case. So be sure to check them out! Now onto that last point that I mentioned just one paragraph ago.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
@@ -132,12 +132,12 @@ We each have our own websites and would like those to be more discoverable
 We want websites for each project not one &amp;#34;one-size-fits-none&amp;#34; site
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;While the original idea of this site as a means of both introducing ourselves and our projects was not a bad one, it wasn&amp;#39;t the best. One over-arching site is just too big and any future projects we do come together for would simply be lost in a sea of other projects, especially if those projects are many and all large. Therefore, each project will have its own dedicated site that will be designed for its own identity. This, of course is something that will happen later. I mentioned we would &lt;em&gt;like&lt;/em&gt; to work on larger projects, but that is not possible at this time. If you would like to help though, I have information on how that could be possible on the &lt;a href=&#34;http://localhost/post/about/&#34;&gt;most link page ever&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;While the original idea of this site as a means of both introducing ourselves and our projects was not a bad one, it wasn&amp;#39;t the best. One over-arching site is just too big and any future projects we do come together for would simply be lost in a sea of other projects, especially if those projects are many and all large. Therefore, each project will have its own dedicated site that will be designed for its own identity. This, of course is something that will happen later. I mentioned we would &lt;em&gt;like&lt;/em&gt; to work on larger projects, but that is not possible at this time. If you would like to help though, I have information on how that could be possible on the &lt;a href=&#34;http://onigirionegai.info/~onigiri/post/about/&#34;&gt;most link page ever&lt;/a&gt;!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://localhost/tags/announcements" term="announcements" label="announcements" /> 
-                                <category scheme="http://localhost/tags/site" term="site" label="site" />
+                                <category scheme="http://onigirionegai.info/~onigiri/tags/announcements" term="announcements" label="announcements" /> 
+                                <category scheme="http://onigirionegai.info/~onigiri/tags/site" term="site" label="site" />
         </entry>
 </feed>

@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.116.1">Hugo</generator>
     <title>News on Onigiri☆Onegai</title>
-            <link href="http://localhost/tags/news/" rel="alternate" type="text/html" title="html" />
-            <link href="http://localhost/tags/news/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-09-03T21:02:55-07:00</updated>
-    <id>http://localhost/tags/news/</id>
+            <link href="http://onigirionegai.info/~onigiri/tags/news/" rel="alternate" type="text/html" title="html" />
+            <link href="http://onigirionegai.info/~onigiri/tags/news/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2023-09-03T21:07:33-07:00</updated>
+    <id>http://onigirionegai.info/~onigiri/tags/news/</id>
         <entry>
             <title>Site Showcase: 03 Sep 2023</title>
-            <link href="http://localhost/post/showcase/03Sep2023/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost/post/showcase/03Sep2023/</id>
+            <link href="http://onigirionegai.info/~onigiri/post/showcase/03Sep2023/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/~onigiri/post/showcase/03Sep2023/</id>
             <published>2023-09-03T12:10:10-07:00</published>
             <updated>2023-09-03T12:10:10-07:00</updated>
             <content type="html">
@@ -24,7 +24,7 @@ Without further ado, let&amp;#39;s talk about Yayoi! Well, more specifically, we
 Anyway, I hope you give her a change. Check out the original post on her &lt;a href=&#34;https://onigirionegai.info/~yayoi/gallery/commissions/&#34;&gt;website&lt;/a&gt; for more information on how to commission her. Also check out our &lt;a href=&#34;https://forums.onigirionegai.info&#34;&gt;forums&lt;/a&gt; if you would like to discuss this showcase or suggests other things you would like us to cover!&lt;/p&gt;
 
             </content>   
-                                <category scheme="http://localhost/tags/site" term="site" label="site" /> 
-                                <category scheme="http://localhost/tags/news" term="news" label="news" />
+                                <category scheme="http://onigirionegai.info/~onigiri/tags/site" term="site" label="site" /> 
+                                <category scheme="http://onigirionegai.info/~onigiri/tags/news" term="news" label="news" />
         </entry>
 </feed>

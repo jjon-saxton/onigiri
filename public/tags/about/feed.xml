@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.116.1">Hugo</generator>
     <title>About on Onigiri☆Onegai</title>
-            <link href="http://localhost/tags/about/" rel="alternate" type="text/html" title="html" />
-            <link href="http://localhost/tags/about/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-09-03T21:02:55-07:00</updated>
-    <id>http://localhost/tags/about/</id>
+            <link href="http://onigirionegai.info/~onigiri/tags/about/" rel="alternate" type="text/html" title="html" />
+            <link href="http://onigirionegai.info/~onigiri/tags/about/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2023-09-03T21:07:33-07:00</updated>
+    <id>http://onigirionegai.info/~onigiri/tags/about/</id>
         <entry>
             <title>About Onigiri☆Onegai</title>
-            <link href="http://localhost/post/about/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost/post/about/</id>
+            <link href="http://onigirionegai.info/~onigiri/post/about/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/~onigiri/post/about/</id>
             <published>2023-09-01T20:49:27-07:00</published>
             <updated>2023-09-01T20:49:27-07:00</updated>
             <content type="html">
@@ -63,6 +63,6 @@ Are there any other ways to contribute?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://localhost/tags/about" term="about" label="about" />
+                                <category scheme="http://onigirionegai.info/~onigiri/tags/about" term="about" label="about" />
         </entry>
 </feed>
