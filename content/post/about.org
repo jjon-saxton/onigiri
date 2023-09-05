@@ -15,8 +15,8 @@ Currently there are three users. Each one has a separate site which focus on dif
 #+BEGIN_EXPORT html
 <script src="https://onigirionegai.info/vue.min.js"></script>
 <ul id="YayoiProjects">
-	<li v-if="!project.private" v-for="project in list">
-    <a :href="'http://onigirionegai.info/'+project.folder+'/'" target="_new">{{project.title}}</a>
+	<li v-if="project.url && !project.private" v-for="project in list">
+    <a :href="project.url">{{project.title}}</a>
     <div class="project-repo" v-if="project.git"><a :href="project.git">Git Repo: {{project.git}}</a></div>
     <div class="project-desc" v-if="project.description">{{project.description}}</div>
    </li>
