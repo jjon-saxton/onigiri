@@ -12,9 +12,31 @@ In short Onigiri☆Onegai is a group of creative individuals. Our mission is to 
 
 * Who are we?
 Currently there are three users. Each one has a separate site which focus on different things. The sites are:
-+ [[http://onigirionegai.info/~miu]], which focuses on mods and CC for the Sims 4
-+ [[http://onigirionegai.info/~yayoi]], which focuses mostly on video games and art.
-+ [[http://onigirionegai.info/]], this site which once focused on creating javascript-based visual novels, but now focuses on information and GNU/Linux rices.
+#+BEGIN_EXPORT html
+<script src="https://onigirionegai.info/vue.min.js"></script>
+<ul id="YayoiProjects">
+	<li v-if="!project.private" v-for="project in list">
+    <a :href="'http://onigirionegai.info/'+project.folder+'/'" target="_new">{{project.title}}</a>
+    <div class="project-repo" v-if="project.git"><a :href="project.git">Git Repo: {{project.git}}</a></div>
+    <div class="project-desc" v-if="project.description">{{project.description}}</div>
+   </li>
+</ul>
+<script>
+	var app= new Vue({
+			el: '#YayoiProjects',
+			data:{
+					list: []
+				},
+			created(){
+					fetch('https://onigirionegai.info/projects.php')
+						.then(response => response.json())
+						.then (json=> {
+								this.list = json
+							})
+				}
+		});
+</script>
+#+END_EXPORT
 * Can you join?
 In short, yes! Actually the best way to get started is to join our [[http://fourms.onigirionegai.info]]. There you can start talking about your interests and let us know how you would like to contribute, or if there is any projects you think we could help you with. If any of us think your project is something we could contribute to, or if we think you can help us with our projects, then we'll add you as a contributor.
 * What are we working on?
