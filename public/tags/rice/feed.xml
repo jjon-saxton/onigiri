@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.116.1">Hugo</generator>
+    <title>Rice on Onigiri☆Onegai</title>
+            <link href="http://onigirionegai.info/tags/rice/" rel="alternate" type="text/html" title="html" />
+            <link href="http://onigirionegai.info/tags/rice/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2023-09-05T17:46:42-07:00</updated>
+    <id>http://onigirionegai.info/tags/rice/</id>
+        <entry>
+            <title>Hyprland, Waybar, and a little Dracula</title>
+            <link href="http://onigirionegai.info/post/hyprland-waybar/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/hyprland-waybar/</id>
+            <published>2023-09-05T16:26:34-07:00</published>
+            <updated>2023-09-05T16:26:34-07:00</updated>
+            <content type="html">
+                
+&lt;img src=&#34;/hyprland-waybar-clean.png&#34; alt=&#34;the clean waybar look&#34; title=&#34;/hyprland-waybar-clean.png&#34; width=&#34;90%&#34;/&gt;
+&lt;p&gt;
+Halloween is coming! Okay, well Halloween is actually still pretty far away, but it happens to be my favorite holiday so, I guess I&amp;#39;m starting a little early. So, other than that little confession I have a few others:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I love the &lt;a href=&#34;https://draculatheme.com/contribute#color-palette&#34;&gt;Dracula Color Scheme&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I&amp;#39;ve been a bit obsessed with making a pill-based top status bar for a bit too long (wait until you see my Qtile config).&lt;/li&gt;
+&lt;li&gt;Wayland might not be for everyone at the moment, but I love it because of Hyprland!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My current Waybar configuration, pictured above (along with a Halloween wallpaper I found) is something I am quite proud of, but aside from that, I like my entire Hyprland look and configuration.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Hyprland and Waybar
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p width=&#34;90%&#34; alt=&#34;hyprland and waybar together&#34;&gt;&lt;img src=&#34;/hyprland-waybar.png&#34; alt=&#34;/hyprland-waybar.png&#34; title=&#34;/hyprland-waybar.png&#34;/&gt;
+As you can see the purple from the Dracula color scheme seeps into the highlight borders of the active window while inactive windows retain a solid dark gray color that is often used for Dracula&amp;#39;s background. Also both Emacs and Kitty are configured for transparency so I can see my wallpaper behind them. In fact, I use mostly Qt apps and Kvantum is also configured for transparency, you just can&amp;#39;t see it very well in qutebrowser because it draws its own UI elements.&lt;/p&gt;
+&lt;p&gt;
+Waybar is configured to show the current window, but you don&amp;#39;t see that section in the clean shot above. That&amp;#39;s because I hide it when its empty. The other sections are split and pill-shaped. I tried using multiple panels in KDE to do a similar effect once, but it didn&amp;#39;t come out quite as nicely as the above. Anyway I like how it all turned out.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Working with Waybar
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;Actually working with Waybar was pretty nice for me. I am somewhat familiar with JSON. The main configuration is a JSON file, so I felt right at home setting up the layout and widgets. Now, unlike Qtile, where all the configuration is in one file, Waybar separates the style and layout into separate files. Fortunately the style is all handled by CSS, which is something else I&amp;#39;m very familiar with, it just meant I had three files to edit and maintain instead of just two.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+Working with Hyprland
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;As you might be able to infer, Hyprland did not come with a bar. This is different from Qtile which not only comes with a bar, but also several built-in widgets and even more distributed as part of the qtile-extras. Of course I heard about Waybar and that provides the bar, but it meant that configuration for the bar is separate, once again, from configuration for the compositor.
+Additionally, I didn&amp;#39;t have much trouble editing the configuration file. It syntax is something that is at least a bit familiar, seems to be ini-like, and I had a few examples to pull from. It was really just a matter of finding the color portions for a Dracula example configuration and then finding and editing the keybindings. I did add window resize keybindings, but that turned out to be pretty easy after reading the &lt;a href=&#34;https://wiki.hyprland.org/&#34;&gt;Hyprland wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+Github
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;My configuration files are available on Github. If you would like to replicate this look on your own, you can just clone &lt;a href=&#34;https://github.com/jjon-saxton/rice&#34;&gt;my repo&lt;/a&gt;. A note: swaybg and swaylock are required to use the configuration as it is written, wofi too. You may need my wofi-scripts as well, but I will be providing those in the future in a separate repo. If you don&amp;#39;t want to use those programs or tools, it should be fairly simple to switch them out for equivalents.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+            </content>   
+                                <category scheme="http://onigirionegai.info/tags/rice" term="rice" label="rice" />
+        </entry>
+</feed>

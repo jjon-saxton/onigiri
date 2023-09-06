@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.116.1">Hugo</generator>
     <title>About on Onigiri☆Onegai</title>
-            <link href="http://onigirionegai.info/~onigiri/tags/about/" rel="alternate" type="text/html" title="html" />
-            <link href="http://onigirionegai.info/~onigiri/tags/about/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-09-03T21:07:33-07:00</updated>
-    <id>http://onigirionegai.info/~onigiri/tags/about/</id>
+            <link href="http://onigirionegai.info/tags/about/" rel="alternate" type="text/html" title="html" />
+            <link href="http://onigirionegai.info/tags/about/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2023-09-05T17:46:42-07:00</updated>
+    <id>http://onigirionegai.info/tags/about/</id>
         <entry>
             <title>About Onigiri☆Onegai</title>
-            <link href="http://onigirionegai.info/~onigiri/post/about/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/~onigiri/post/about/</id>
+            <link href="http://onigirionegai.info/post/about/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/about/</id>
             <published>2023-09-01T20:49:27-07:00</published>
             <updated>2023-09-01T20:49:27-07:00</updated>
             <content type="html">
@@ -22,11 +22,29 @@ Who are we?
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
 &lt;p&gt;Currently there are three users. Each one has a separate site which focus on different things. The sites are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://onigirionegai.info/~miu&#34;&gt;http://onigirionegai.info/~miu&lt;/a&gt;, which focuses on mods and CC for the Sims 4&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://onigirionegai.info/~yayoi&#34;&gt;http://onigirionegai.info/~yayoi&lt;/a&gt;, which focuses mostly on video games and art.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://onigirionegai.info/&#34;&gt;http://onigirionegai.info/&lt;/a&gt;, this site which once focused on creating javascript-based visual novels, but now focuses on information and GNU/Linux rices.&lt;/li&gt;
+&lt;script src=&#34;https://onigirionegai.info/vue.min.js&#34;&gt;&lt;/script&gt;
+&lt;ul id=&#34;OOProjects&#34;&gt;
+	&lt;li v-if=&#34;project.url &amp;&amp; !project.private&#34; v-for=&#34;project in list&#34;&gt;
+    &lt;a :href=&#34;project.url&#34;&gt;{{project.title}}&lt;/a&gt;
+    &lt;div class=&#34;project-repo&#34; v-if=&#34;project.git&#34;&gt;&lt;a :href=&#34;project.git&#34;&gt;Git Repo: {{project.git}}&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&#34;project-desc&#34; v-if=&#34;project.description&#34;&gt;{{project.description}}&lt;/div&gt;
+   &lt;/li&gt;
 &lt;/ul&gt;
+&lt;script&gt;
+	var app= new Vue({
+			el: &#39;#OOProjects&#39;,
+			data:{
+					list: []
+				},
+			created(){
+					fetch(&#39;https://onigirionegai.info/projects.php&#39;)
+						.then(response =&gt; response.json())
+						.then (json=&gt; {
+								this.list = json
+							})
+				}
+		});
+&lt;/script&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
@@ -34,7 +52,7 @@ Who are we?
 Can you join?
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;In short, yes! Actually the best way to get started is to join our &lt;a href=&#34;http://fourms.onigirionegai.info&#34;&gt;http://fourms.onigirionegai.info&lt;/a&gt;. There you can start talking about your interests and let us know how you would like to contribute, or if there is any projects you think we could help you with. If any of us think your project is something we could contribute to, or if we think you can help us with our projects, then we&amp;#39;ll add you as a contributor.&lt;/p&gt;
+&lt;p&gt;In short, yes! Actually the best way to get started is to join our &lt;a href=&#34;https://forums.onigirionegai.info&#34;&gt;forums&lt;/a&gt;. There you can start talking about your interests and let us know how you would like to contribute, or if there is any projects you think we could help you with. If any of us think your project is something we could contribute to, or if we think you can help us with our projects, then we&amp;#39;ll add you as a contributor.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
@@ -63,6 +81,6 @@ Are there any other ways to contribute?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/~onigiri/tags/about" term="about" label="about" />
+                                <category scheme="http://onigirionegai.info/tags/about" term="about" label="about" />
         </entry>
 </feed>
