@@ -7,7 +7,7 @@ foreach ($folders as $item)
 {
 	if (is_dir("/home/".$item."/public_html") && file_exists("/home/".$item."/public_html/MANIFEST"))
 	{
-		$info=parse_ini_file("./".$item."/MANIFEST");
+		$info=parse_ini_file("/home/".$item."/public_html/MANIFEST");
 		$info['folder']=$item;
 		if (!$info['private'])
 		{
