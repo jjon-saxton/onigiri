@@ -14,7 +14,7 @@ In short Onigiri☆Onegai is a group of creative individuals. Our mission is to 
 Currently there are three users. Each one has a separate site which focus on different things. The sites are:
 #+BEGIN_EXPORT html
 <script src="https://onigirionegai.info/vue.min.js"></script>
-<ul id="YayoiProjects">
+<ul id="OOProjects">
 	<li v-if="project.url && !project.private" v-for="project in list">
     <a :href="project.url">{{project.title}}</a>
     <div class="project-repo" v-if="project.git"><a :href="project.git">Git Repo: {{project.git}}</a></div>
@@ -23,7 +23,7 @@ Currently there are three users. Each one has a separate site which focus on dif
 </ul>
 <script>
 	var app= new Vue({
-			el: '#YayoiProjects',
+			el: '#OOProjects',
 			data:{
 					list: []
 				},
@@ -38,7 +38,7 @@ Currently there are three users. Each one has a separate site which focus on dif
 </script>
 #+END_EXPORT
 * Can you join?
-In short, yes! Actually the best way to get started is to join our [[http://fourms.onigirionegai.info]]. There you can start talking about your interests and let us know how you would like to contribute, or if there is any projects you think we could help you with. If any of us think your project is something we could contribute to, or if we think you can help us with our projects, then we'll add you as a contributor.
+In short, yes! Actually the best way to get started is to join our [[https://forums.onigirionegai.info][forums]]. There you can start talking about your interests and let us know how you would like to contribute, or if there is any projects you think we could help you with. If any of us think your project is something we could contribute to, or if we think you can help us with our projects, then we'll add you as a contributor.
 * What are we working on?
 Right now, each of us has our own projects. We were coming together for the aforementioned VNs, but, sadly, we are too busy and too small to work one those. That isn't to say we don't plan on releasing them in the future, but we are looking at additional options. We still come together to help out, but, if you want to know what each of us are working on, it is best to check out the different sites linked above.
 * Any plans for the future?

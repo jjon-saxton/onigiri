@@ -1,0 +1,31 @@
+#+TITLE: Hyprland, Waybar, and a little Dracula
+#+DATE: 2023-09-05T16:26:34-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: rice
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+#+ATTR_HTML: :width 90% :alt the clean waybar look
+[[/hyprland-waybar-clean.png]]
+
+Halloween is coming! Okay, well Halloween is actually still pretty far away, but it happens to be my favorite holiday so, I guess I'm starting a little early. So, other than that little confession I have a few others:
+1. I love the [[https://draculatheme.com/contribute#color-palette][Dracula Color Scheme]].
+2. I've been a bit obsessed with making a pill-based top status bar for a bit too long (wait until you see my Qtile config).
+3. Wayland might not be for everyone at the moment, but I love it because of Hyprland!
+My current Waybar configuration, pictured above (along with a Halloween wallpaper I found) is something I am quite proud of, but aside from that, I like my entire Hyprland look and configuration.
+
+* Hyprland and Waybar
+#+ATTR_HTML: :width 90% :alt hyprland and waybar together
+[[/hyprland-waybar.png]]
+As you can see the purple from the Dracula color scheme seeps into the highlight borders of the active window while inactive windows retain a solid dark gray color that is often used for Dracula's background. Also both Emacs and Kitty are configured for transparency so I can see my wallpaper behind them. In fact, I use mostly Qt apps and Kvantum is also configured for transparency, you just can't see it very well in qutebrowser because it draws its own UI elements.
+
+Waybar is configured to show the current window, but you don't see that section in the clean shot above. That's because I hide it when its empty. The other sections are split and pill-shaped. I tried using multiple panels in KDE to do a similar effect once, but it didn't come out quite as nicely as the above. Anyway I like how it all turned out.
+* Working with Waybar
+Actually working with Waybar was pretty nice for me. I am somewhat familiar with JSON. The main configuration is a JSON file, so I felt right at home setting up the layout and widgets. Now, unlike Qtile, where all the configuration is in one file, Waybar separates the style and layout into separate files. Fortunately the style is all handled by CSS, which is something else I'm very familiar with, it just meant I had three files to edit and maintain instead of just two.
+* Working with Hyprland
+As you might be able to infer, Hyprland did not come with a bar. This is different from Qtile which not only comes with a bar, but also several built-in widgets and even more distributed as part of the qtile-extras. Of course I heard about Waybar and that provides the bar, but it meant that configuration for the bar is separate, once again, from configuration for the compositor.
+Additionally, I didn't have much trouble editing the configuration file. It syntax is something that is at least a bit familiar, seems to be ini-like, and I had a few examples to pull from. It was really just a matter of finding the color portions for a Dracula example configuration and then finding and editing the keybindings. I did add window resize keybindings, but that turned out to be pretty easy after reading the [[https://wiki.hyprland.org/][Hyprland wiki]].
+* Github
+My configuration files are available on Github. If you would like to replicate this look on your own, you can just clone [[https://github.com/jjon-saxton/rice][my repo]]. A note: swaybg and swaylock are required to use the configuration as it is written, wofi too. You may need my wofi-scripts as well, but I will be providing those in the future in a separate repo. If you don't want to use those programs or tools, it should be fairly simple to switch them out for equivalents.
