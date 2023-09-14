@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <generator uri="https://gohugo.io/" version="0.116.1">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator>
     <title>About on Onigiri☆Onegai</title>
             <link href="http://onigirionegai.info/tags/about/" rel="alternate" type="text/html" title="html" />
             <link href="http://onigirionegai.info/tags/about/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-09-05T17:59:58-07:00</updated>
+    <updated>2023-09-14T15:07:29-07:00</updated>
     <id>http://onigirionegai.info/tags/about/</id>
         <entry>
             <title>About Onigiri☆Onegai</title>

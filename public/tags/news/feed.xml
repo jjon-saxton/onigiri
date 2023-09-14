@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <generator uri="https://gohugo.io/" version="0.116.1">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator>
     <title>News on Onigiri☆Onegai</title>
             <link href="http://onigirionegai.info/tags/news/" rel="alternate" type="text/html" title="html" />
             <link href="http://onigirionegai.info/tags/news/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-09-05T17:59:58-07:00</updated>
+    <updated>2023-09-14T15:07:29-07:00</updated>
     <id>http://onigirionegai.info/tags/news/</id>
+        <entry>
+            <title>Site Look</title>
+            <link href="http://onigirionegai.info/post/site-look/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/site-look/</id>
+            <published>2023-09-14T12:47:20-07:00</published>
+            <updated>2023-09-14T12:47:20-07:00</updated>
+            <content type="html">
+                &lt;p&gt;
+It has been a couple of weeks now since I have changed the purpose of this site. With this change came a new look. To be honest the look was chosen for two reasons and neither are particularly good:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It looked pretty good&lt;/li&gt;
+&lt;li&gt;It seemed pretty easy to install&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If I&amp;#39;m being even more honest I would say the second reason is the biggest factor. Which is related to how, unfortunately, lazy I&amp;#39;ve come when it comes to this site. I fully recognize that the original site had a lot more…we&amp;#39;ll call it…personality. To me it just had a look to it that screamed anime or visual novel without looking too much like a Japanese site. It struck a good balance between the type of content we provided and the origin of our group, that being the United States. This site does look fairly professional, but it lacks some of the charm of the old one. I understand this. The problem is, is there a problem? What I mean is, is it bad that we lost that charm? Maybe its better without it? That&amp;#39;s where I need your opinion. I have a &lt;a href=&#34;https://forums.onigirionegai.info/viewtopic.php?t=28&#34;&gt;forum post&lt;/a&gt; up with a poll and would like anyone to tell me what they think. Should we try to get that personality back, or is this better?&lt;/p&gt;
+&lt;p&gt;
+While I would love to tell you that I have more news, it has been a bit slow on that front today. I am looking at other sites and pages to showcase though. I&amp;#39;ve been catching up on anime and trying to help some friends, so I haven&amp;#39;t had as much time to go through some of the suggestions. I&amp;#39;ll have something up for next week though. Right now, let&amp;#39;s enjoy the break 😄&lt;/p&gt;
+
+            </content>   
+                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
+                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" />
+        </entry>
         <entry>
             <title>Site Showcase: 03 Sep 2023</title>
             <link href="http://onigirionegai.info/post/showcase/03Sep2023/" rel="alternate" type="text/html"  hreflang="en" />
