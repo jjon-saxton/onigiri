@@ -4,7 +4,7 @@
     <title>Onigiri☆Onegai</title>
             <link href="http://onigirionegai.info/" rel="alternate" type="text/html" title="html" />
             <link href="http://onigirionegai.info/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-09-14T15:07:29-07:00</updated>
+    <updated>2023-10-02T16:06:35-07:00</updated>
     <id>http://onigirionegai.info/</id>
         <entry>
             <title>About Onigiri☆Onegai</title>
@@ -82,6 +82,76 @@ Are there any other ways to contribute?
 
             </content>   
                                 <category scheme="http://onigirionegai.info/tags/about" term="about" label="about" />
+        </entry>
+        <entry>
+            <title>&#34;Macs Can&#39;t Game&#34;</title>
+            <link href="http://onigirionegai.info/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/mac-gaming/</id>
+            <published>2023-09-27T18:40:52-07:00</published>
+            <updated>2023-09-27T18:40:52-07:00</updated>
+            <content type="html">
+                
+&lt;p&gt;
+If you&amp;#39;re a user of a modern Mac, not a Macintosh or Apple computer, but a Mac, because that&amp;#39;s what we call them these days, then you have probably heard &lt;em&gt;someone&lt;/em&gt; say, but Jon (I&amp;#39;m using my name because I have heard this, but use your name instead) Macs can&amp;#39;t game, right? I mean its kind of the reputation the platform has especially today since, due to the fundamentally different architecture, we can&amp;#39;t just throw a copy of Windows on there and call it a day. The question is: Is this really true? To really answer this question we have to actually understand the statement. Let&amp;#39;s start there.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+What do you mean &amp;#34;Macs Can&amp;#39;t Game&amp;#34;?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;This is really an over generalized statement and we first need to understand this before we can support or refute it. Here is what I mean. The statement assumes, like many things in life these days, a digital state. That is like newer digital TV signals you either have 100% or 0%. There are no states in between. Applying this to Mac gaming means that you either can play 100% of the games you own or you can&amp;#39;t play any games at all. However, this negates some of the actual accomplishments of the system and makes it sound as if you can&amp;#39;t play any games on a Mac. This is not true, and I don&amp;#39;t just mean Apple Arcade games, but lets talk about that.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Apple Arcade
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;The above statement assumes no games run on Macs. It even negates Apple Arcade. Now, I will give many PC gamers a pass here. The type of games available on Apple Arcade are probably not the games they actually want to play. Because of the nature of Apple Arcade and requirements from Apple, all games released on Apple Arcade must support all platform that run the arcade software, this includes devices like the Apple TV and iPhone SE. Many Apple Arcade games, therefore, are phone games or very low quality games that you could just play on your phone, so what&amp;#39;s the point in playing them on a Mac and why even include them? Well, you see, they are still games and that means that Macs do have a large library of games they can play. As I said though, I&amp;#39;ll give you PC gamers a bit of a pass, but we should probably change the statement to reflect this &amp;#34;Macs can&amp;#39;t play the games I want to play.&amp;#34;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+AAA Titles
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;Only that also isn&amp;#39;t entirely accurate. I &lt;em&gt;could&lt;/em&gt; bust out my nerd game and say something to the effect of: Well, Intel Macs exist still an you could just use boot camp on one of those computers to install Windows and therefore there are a lot of Macs that can play whatever game you want, I don&amp;#39;t even need to go there. The very fact that Steam runs on Macs &lt;em&gt;should&lt;/em&gt; allude to the fact that there are decent, non-Apple Arcade games, that actually run natively on even Apple Silicon M1/M2 Macs. Just one title that I noticed is &amp;#34;No Man&amp;#39;s Sky&amp;#34;. You can install and run that through Steam on macOS without issues. Is it the best experience out there? Probably not, certainly not on something like the 2020 M1 MacBook Air, but even that is just about as good as a Steam Deck. &amp;#34;No Man&amp;#39;s Sky&amp;#34; is also no the only game that runs on a Mac. Just a quick look at my own library shows the following AAA titles that I could install and run on a Mac:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;BioShock/BioShock 2&lt;/li&gt;
+&lt;li&gt;Deues Ex: Mankind Divided&lt;/li&gt;
+&lt;li&gt;Middle Earth: Shadow of Mordor&lt;/li&gt;
+&lt;li&gt;Rise of the Tomb Raider&lt;/li&gt;
+&lt;li&gt;Shadow of the Tomb Raider&lt;/li&gt;
+&lt;li&gt;Tomb Raider&lt;/li&gt;
+&lt;li&gt;No Man&amp;#39;s Sky&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Is that a really long list? No, not by a long shot, but seven games is more than none. Are these games all that new? Also no, but then again I don&amp;#39;t have very many new titles in my own library to look at. The point is that there &lt;em&gt;are&lt;/em&gt; games that you can play on a Mac so saying Macs can&amp;#39;t game is not exactly accurate.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+Does the really matter?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;The harsh reality is of the 202 titles in my library (that&amp;#39;s all titles), only 30 will run on the Mac. Also, I don&amp;#39;t play many of the 30 games that would run. &amp;#34;No Man&amp;#39;s Sky&amp;#34; is the only game I have played extensively on the Mac, but that does mean I have played a game on the Mac and, in fact, I have also played non-steam games including &amp;#34;The Sims 4&amp;#34;, &amp;#34;StarCraft II&amp;#34;, and &amp;#34;Fantasian&amp;#34; (one of which is a very good Apple Arcade title). So I&amp;#39;m not only capable of playing games on the Mac, but I have actually done so. Is it my platform of choice for gaming? No. I wouldn&amp;#39;t even use it for productivity. I know at least one person who would use a Mac over a PC (even running Linux), but not for running games. That being said, the statement isn&amp;#39;t about preference it is about capability. Macs are capable of running games therefore to say they can&amp;#39;t is just wrong. However, what can it hurt to just say they can&amp;#39;t play games? After all they certainly don&amp;#39;t play many so its not entirely incorrect and maybe it will better prepare people for when they are trying to decide on that one laptop for school or work. Well, there are actually problems with a blanket label like that:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It breads an attitude in consumers that they should not buy a Mac if gaming is something they want to use it for at all&lt;/li&gt;
+&lt;li&gt;It makes the Mac look like a platform that should not be targeted as platform to release games on&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This could effect efforts of those who are considering releasing games for the Mac and result in a sort of chicken and egg problem. There are no games for the Mac, so no one buy a Mac for gaming, therefore there is no interest in developing games for the Mac, therefore the are no games for the Mac. If we at least acknowledge the Mac&amp;#39;s potential as a platform for games then perhaps we can break that cycle. Unfortunately, that is up to us.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-5&#34;&gt;
+What next?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;In my next blog post I will be comparing the Mac and the Steam Deck as gaming platforms. Both of these devices are not typically targeted as release platforms for large PC games, but one plays many more games then the other. I&amp;#39;ll discuss why and why it matters. I&amp;#39;ll also bring up the GamePorting ToolKit from Apple and how it is different from Valve&amp;#39;s efforts. I&amp;#39;ll even explain why it likely won&amp;#39;t help the Mac. Stay tuned!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+            </content>   
+                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
+                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>Site Look</title>
