@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.119.0">Hugo</generator>
     <title>News on Onigiri☆Onegai</title>
             <link href="http://onigirionegai.info/tags/news/" rel="alternate" type="text/html" title="html" />
             <link href="http://onigirionegai.info/tags/news/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-10-02T16:06:35-07:00</updated>
+    <updated>2023-11-16T12:49:47-08:00</updated>
     <id>http://onigirionegai.info/tags/news/</id>
+        <entry>
+            <title>Forums moving to GitHub Discussions</title>
+            <link href="http://onigirionegai.info/post/forums-github/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/forums-github/</id>
+            <published>2023-11-16T12:26:36-08:00</published>
+            <updated>2023-11-16T12:26:36-08:00</updated>
+            <content type="html">
+                
+&lt;p&gt;
+Over the past couple of years I have hosted a set of discussion forums on this server using phpBB. The idea was to give members of our community a way to discuss things with us and each other and generally just get together. Forums were also going to be away for patrons to access and discuss content and the direction of stories. We have had no adoption and it became a place where I could exchange ideas and private messages only with the other staff members and friends. While this is not a bad purpose, as this really doesn&amp;#39;t affect the server that much we have decided to shut these forums down. If anyone would like to discuss this site or our future plans, they can still do so, but will now require a GitHub account as we have simply set up GitHub Discussions for each repository associated with the server. The one for this site, for example, is located &lt;a href=&#34;https://github.com/jjon-saxton/onigiri/discussions&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Comments vs Discussions vs Issues
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;While currently not enabled (I&amp;#39;m weighing options) on this site, we are looking to enable comments on each blog page to allow for some engagement. This is currently done on &lt;a href=&#34;https://onigirionegai.info/~yayoi/&#34;&gt;Yayoi&amp;#39;s site&lt;/a&gt; using a GitHub project called utteranc.es. This allows people to post comments as issues in GitHub. The comments still appear on the page below the main content as they should for a blog, but she gets to review, reply, and manage them from her repo. While this seems awesome, it does require that everyone has a GitHub account, so I&amp;#39;m weighing other options for engagement. If we do establish comments those would be used for specific information on a page while discussions would be more for project discussion and general site comments. You can also raise issues on the GitHub repo if you notice problems. Yayoi uses her comment section for that as well because, as I mentioned, they use GitHub issues in the backend, but that may not be the best if we use something else.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Future of Community Engagement
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;I would still like to build a community here. Once I have a comment system in place I&amp;#39;m hoping everyone will use it. We are artists and we like showing our art. Its great to just create things, but would be so much better if we knew it was really appriciated. At the end of the day that&amp;#39;s what this is all about. Please engage with us on our GitHub discussions or even in the comment sections if/when they are available. Thank you.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-3&#34;&gt;
+List of Discussions
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jjon-saxton/onigiri/discussions&#34;&gt;Onigiri☆Onegai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yayoi-chi/yaya-world/discussions&#34;&gt;Yaya&amp;#39;s World&lt;/a&gt; (Don&amp;#39;t forget to hit up Yayoi in her comments too 😉)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+            </content>   
+                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" /> 
+                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" />
+        </entry>
         <entry>
             <title>&#34;Macs Can&#39;t Game&#34;</title>
             <link href="http://onigirionegai.info/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
