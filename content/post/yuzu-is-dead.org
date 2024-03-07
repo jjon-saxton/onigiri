@@ -1,0 +1,26 @@
+#+TITLE: Yuzu Is Dead
+#+DATE: 2024-03-06T19:37:27-08:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: news blog
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+So, I like emulators. I don't like emulators because they allow us to pirate games. I mean, I'm not going to sit here like some sort of self-righteous moron and tell you that emulators aren't meant to be used that or, worse, that no one uses them that way, but that's not the reason I think they should exist. Emulators are important because they help us preserve and play games that are no longer available. They also let us use hardware that was originally not designed to play games, which is cool, but could still be considered piracy. Either way, I think, when one is taken out, it harms the gaming industry and potential fans of beloved old franchises who will never get to play some games. Is this entirely true for emulators like Yuzu that emulate currently in-production hardware, perhaps not, but it can have lasting consequences for us when even these emulators are not protected.
+
+* What was Yuzu?
+Yuzu was a very popular Nintendo Switch emulator. All it did was emulate the unique hardware environment that exists inside the Nintendo Switch. On its own it doesn't even provide the Switch's firmware or operating system, just the hardware (in software form because emulators are weird). It is required that the user backs up their own Switch's firmware and portions of its NAND flash memory in order for it to work correctly. This includes the Switch's own encryption keys. I'm not a lawyer, so this is not legal advice, but bro-to-bro, this is probably the most legal way to create an emulator.
+
+* So What Happened?
+Frankly, Nintendo didn't have the same view that I have. Now I did mention that Yuzu was extremely popular and, regardless of the intent of the developers, it was used to gain access to content that was not even out yet, like early builds of Tears of the Kingdom. Nintendo certainly didn't like it so they filed a lawsuit against the developers. I do not know the amount of the lawsuit, but it was likely quite a lot for a company that was mostly supported by Patrons.
+
+Either fearing ballooning expenses for litigation or other items that Nintendo could have found out about during discovery, they decided not proceed to court. The Yuzu developers settled outside of court for 2.4 million USD! As part of this settlement they were required take down Yuzu and delete the code base. Hence, Yuzu is dead!
+
+* And All the Pirates Cried!
+While that's probably true, the pirates are not the only people who lose here. Here's the thing. I'll say it straight up for you! You wanna play a Nintendo Switch game, you should get a Nintendo Switch, but there are some people who legitimately can't play games on the console. They may need special hardware to interface with the game or other accessibility options that the Nintendo Switch doesn't support, but are available on PC and maybe there are just people who want to use a different controller or need higher frame-rates. Remember, when used as the developers intended, Yuzu wouldn't cut out the need to own a Nintendo Switch, but would allow for others to play the games that they wouldn't be able to play.
+
+Setting all of that aside, however, if we can. There are also other reasons we need to be careful about this. What happens when we can't play the games as they are intended to be played any more. Eventually Nintendo will move on from its Switch console and stop making them. The console uses NAND flash chips and a battery which have a limited lifespan. This means there will come a time when we can't play games on the Nintendo Switch. Think of how rare it is to find a working SNES or Sega Genesis. How are we able to play those games? Most of us use emulators. I know I do. What could happen is this will set a precedent that companies can sell us something prevent us from playing it, and then charge us again for the privilege of being able to play it in the future. This is bad for all of us. Good of Sony. Good for Nintendo. Bad for us. This is way the death of Yuzu is a bad thing for all gamers!
+
+* What Can be Done?
+Well, nothing. Yuzu has already settled out of court, they have already pulled Yuzu and its code-base from the internet. The only thing left is for developers to not give up. We need to fork Yuzu and offer new versions. If Nintendo cuts one of us down we will simply return and in bigger numbers! For those, like me, who don't have the knowledge to do this, we can support emulators and those that make them. Show Nintendo that they can't sue everyone. Good news is, I have reason to believe that forks of Yuzu and/or other Nintendo Switch emulators have already been released so perhaps Nintendo won't be able to win after all. We'll just have to see how they respond.
