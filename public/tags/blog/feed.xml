@@ -1,11 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <generator uri="https://gohugo.io/" version="0.119.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.123.7">Hugo</generator>
     <title>Blog on Onigiri☆Onegai</title>
             <link href="http://onigirionegai.info/tags/blog/" rel="alternate" type="text/html" title="html" />
-            <link href="http://onigirionegai.info/tags/blog/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-11-16T12:49:47-08:00</updated>
+            <link href="http://onigirionegai.info/tags/blog/feed.xml" rel="self" type="application/atom+xml" title="atom" />
+    <updated>2024-03-11T21:34:04-07:00</updated>
     <id>http://onigirionegai.info/tags/blog/</id>
+        <entry>
+            <title>Yuzu Is Dead</title>
+            <link href="http://onigirionegai.info/post/yuzu-is-dead/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/yuzu-is-dead/</id>
+            <published>2024-03-06T19:37:27-08:00</published>
+            <updated>2024-03-06T19:37:27-08:00</updated>
+            <content type="html">
+                
+&lt;p&gt;
+So, I like emulators. I don&amp;#39;t like emulators because they allow us to pirate games. I mean, I&amp;#39;m not going to sit here like some sort of self-righteous moron and tell you that emulators aren&amp;#39;t meant to be used that or, worse, that no one uses them that way, but that&amp;#39;s not the reason I think they should exist. Emulators are important because they help us preserve and play games that are no longer available. They also let us use hardware that was originally not designed to play games, which is cool, but could still be considered piracy. Either way, I think, when one is taken out, it harms the gaming industry and potential fans of beloved old franchises who will never get to play some games. Is this entirely true for emulators like Yuzu that emulate currently in-production hardware, perhaps not, but it can have lasting consequences for us when even these emulators are not protected.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+What was Yuzu?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;Yuzu was a very popular Nintendo Switch emulator. All it did was emulate the unique hardware environment that exists inside the Nintendo Switch. On its own it doesn&amp;#39;t even provide the Switch&amp;#39;s firmware or operating system, just the hardware (in software form because emulators are weird). It is required that the user backs up their own Switch&amp;#39;s firmware and portions of its NAND flash memory in order for it to work correctly. This includes the Switch&amp;#39;s own encryption keys. I&amp;#39;m not a lawyer, so this is not legal advice, but bro-to-bro, this is probably the most legal way to create an emulator.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+So What Happened?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;Frankly, Nintendo didn&amp;#39;t have the same view that I have. Now I did mention that Yuzu was extremely popular and, regardless of the intent of the developers, it was used to gain access to content that was not even out yet, like early builds of Tears of the Kingdom. Nintendo certainly didn&amp;#39;t like it so they filed a lawsuit against the developers. I do not know the amount of the lawsuit, but it was likely quite a lot for a company that was mostly supported by Patrons.&lt;/p&gt;
+&lt;p&gt;
+Either fearing ballooning expenses for litigation or other items that Nintendo could have found out about during discovery, they decided not proceed to court. The Yuzu developers settled outside of court for 2.4 million USD! As part of this settlement they were required take down Yuzu and delete the code base. Hence, Yuzu is dead!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+And All the Pirates Cried!
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;While that&amp;#39;s probably true, the pirates are not the only people who lose here. Here&amp;#39;s the thing. I&amp;#39;ll say it straight up for you! You wanna play a Nintendo Switch game, you should get a Nintendo Switch, but there are some people who legitimately can&amp;#39;t play games on the console. They may need special hardware to interface with the game or other accessibility options that the Nintendo Switch doesn&amp;#39;t support, but are available on PC and maybe there are just people who want to use a different controller or need higher frame-rates. Remember, when used as the developers intended, Yuzu wouldn&amp;#39;t cut out the need to own a Nintendo Switch, but would allow for others to play the games that they wouldn&amp;#39;t be able to play.&lt;/p&gt;
+&lt;p&gt;
+Setting all of that aside, however, if we can. There are also other reasons we need to be careful about this. What happens when we can&amp;#39;t play the games as they are intended to be played any more. Eventually Nintendo will move on from its Switch console and stop making them. The console uses NAND flash chips and a battery which have a limited lifespan. This means there will come a time when we can&amp;#39;t play games on the Nintendo Switch. Think of how rare it is to find a working SNES or Sega Genesis. How are we able to play those games? Most of us use emulators. I know I do. What could happen is this will set a precedent that companies can sell us something prevent us from playing it, and then charge us again for the privilege of being able to play it in the future. This is bad for all of us. Good of Sony. Good for Nintendo. Bad for us. This is way the death of Yuzu is a bad thing for all gamers!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+What Can be Done?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;Well, nothing. Yuzu has already settled out of court, they have already pulled Yuzu and its code-base from the internet. The only thing left is for developers to not give up. We need to fork Yuzu and offer new versions. If Nintendo cuts one of us down we will simply return and in bigger numbers! For those, like me, who don&amp;#39;t have the knowledge to do this, we can support emulators and those that make them. Show Nintendo that they can&amp;#39;t sue everyone. Good news is, I have reason to believe that forks of Yuzu and/or other Nintendo Switch emulators have already been released so perhaps Nintendo won&amp;#39;t be able to win after all. We&amp;#39;ll just have to see how they respond.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+            </content>   
+                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
+                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
+        </entry>
         <entry>
             <title>&#34;Macs Can&#39;t Game&#34;</title>
             <link href="http://onigirionegai.info/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
