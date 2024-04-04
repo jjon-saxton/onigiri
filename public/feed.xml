@@ -4,7 +4,7 @@
     <title>Onigiri☆Onegai</title>
             <link href="http://onigirionegai.info/" rel="alternate" type="text/html" title="html" />
             <link href="http://onigirionegai.info/feed.xml" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2024-03-11T21:34:04-07:00</updated>
+    <updated>2024-04-04T12:08:09-07:00</updated>
     <id>http://onigirionegai.info/</id>
         <entry>
             <title>About Onigiri☆Onegai</title>
@@ -82,6 +82,48 @@ Are there any other ways to contribute?
 
             </content>   
                                 <category scheme="http://onigirionegai.info/tags/about" term="about" label="about" />
+        </entry>
+        <entry>
+            <title>April Fools</title>
+            <link href="http://onigirionegai.info/post/april-fools/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/april-fools/</id>
+            <published>2024-04-04T09:04:49-07:00</published>
+            <updated>2024-04-04T09:04:49-07:00</updated>
+            <content type="html">
+                
+&lt;p&gt;
+I finally did it! I made an April Fools joke. Okay, I don&amp;#39;t have analytics on this site so I don&amp;#39;t know who saw it but, no, we are not suddenly a chicken company. Actually it was kind of &lt;a href=&#34;http://onigirionegai.info/~yayoi&#34;&gt;Yayoi&amp;#39;s&lt;/a&gt; idea to make it a &amp;#34;Chimkin&amp;#34; site, but I added a few things because Easter also happened to be at a weird time this year due to us having a fifth Sunday in the month of March. Anyway, the joke&amp;#39;s over now back to our regularly scheduled programming.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+April Fool&amp;#39;s and Why I Wanted to Participate
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;For those of you who aren&amp;#39;t aware. April Fools or Fool&amp;#39;s Day is a holiday we celebrate in the United States. I am actually not sure if it is celebrated elsewhere, if you are in a different country and celebrate April Fools, why not let me know. I&amp;#39;ve put up a &lt;a href=&#34;https://github.com/jjon-saxton/onigiri/discussions/2&#34;&gt;Poll and Discussion&lt;/a&gt; thread to talk about your experiences with this day. Anyway, On this day its all about pranks and just generally spreading misinformation, of course, that&amp;#39;s now every day here in the US, but this &lt;em&gt;used&lt;/em&gt; to be the only day we did were allowed to lie and have it socially acceptable. I never participated, because, I&amp;#39;ll be honest, I never had any good ideas. As a scientist of sorts I am usually more interested in finding and spreading the truth and not misinformation so it was a bit difficult for me to think of something to do on April Fool&amp;#39;s day until this year actually. And, of course, credit where credit is due, it was not solely my idea.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+How Did This &amp;#34;Chimkin&amp;#34; Thing Get Started?
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;I approached the only other active member of Onigiri*Onegai and said I wanted to do something to the site for April Fool&amp;#39;s and she said she had a dream where she had started selling chicken sandwhiches and had come to me to build her a website so I said, why not do that? She liked the idea, but things hit a bit of a snag. I said I wanted to make sure it would work in old browsers so I was going to take down the Hugo we run. She wanted to make sure everything was reversable, so I said I wouldn&amp;#39;t take them down, but just change a few configuration files. I forgot exactly how I had set up the production server though, so, well things were a bit more tricky than I thought and took longer than I wanted. It also didn&amp;#39;t help that I forgot about this until the 1st. So what we ended up with wasn&amp;#39;t exactly what we wanted, but I think it did the trick for this year. I have assured Yayoi that things will be much more polished if we do this again next year. She seemed content with that. We&amp;#39;ll see if we do something like this again.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+In Other News
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;A lot has been happening for me and I don&amp;#39;t have much time for website updates. I still need to show off my new rice for Hyprland, even though I&amp;#39;m not in a graphical environment much anymore. That&amp;#39;s right! Let&amp;#39;s go Linux Console! Yeah I mean those &lt;code&gt;/dev/tty&lt;/code&gt; devices we all have on our GNU/Linux machines. I figured, as long as I am mostly in emacs and don&amp;#39;t need a graphical stack then that will work just fine and so I don&amp;#39;t spend much time in Hyprland these days. I mostly just use emacs as a sort of operating environment in the TTY and only start Hyprland if I need to do something like preview this site in a graphical browser. I even do a lot of web searches right in the TTY thanks to &lt;code&gt;ddgr&lt;/code&gt; and &lt;code&gt;elinks&lt;/code&gt;. I do still have a new rice for Hyprland to show off though, and will, hopefully get it up soon.&lt;/p&gt;
+&lt;p&gt;
+As for any other news, well, life goes on. Still just working and trying to make the most of my free time watching anime or playing video games. I actually used to be a pretty big fan of anime back in college, but that changed when life got busy, and I rarely watched a single new thing. I&amp;#39;m trying to change that though. I&amp;#39;ve gone back to some old shows and have managed to get my hands on a couple new ones. I do hope to spend a bit more time working on this website, but I won&amp;#39;t promise anything right now.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+            </content>   
+                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" /> 
+                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
+                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>Yuzu Is Dead</title>
