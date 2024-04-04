@@ -1,0 +1,21 @@
+#+TITLE: April Fools
+#+DATE: 2024-04-04T09:04:49-07:00
+#+DRAFT: false
+#+DESCRIPTION:
+#+TAGS[]: site news blog
+#+KEYWORDS[]:
+#+SLUG:
+#+SUMMARY:
+
+I finally did it! I made an April Fools joke. Okay, I don't have analytics on this site so I don't know who saw it but, no, we are not suddenly a chicken company. Actually it was kind of [[http://onigirionegai.info/~yayoi][Yayoi's]] idea to make it a "Chimkin" site, but I added a few things because Easter also happened to be at a weird time this year due to us having a fifth Sunday in the month of March. Anyway, the joke's over now back to our regularly scheduled programming.
+
+* April Fool's and Why I Wanted to Participate
+For those of you who aren't aware. April Fools or Fool's Day is a holiday we celebrate in the United States. I am actually not sure if it is celebrated elsewhere, if you are in a different country and celebrate April Fools, why not let me know. I'll have a discussion thread up on our github discussions where you can talk about it. Anyway, On this day its all about pranks and just generally spreading misinformation, of course, that's now every day here in the US, but this /used/ to be the only day we did were allowed to lie and have it socially acceptable. I never participated, because, I'll be honest, I never had any good ideas. As a scientist of sorts I am usually more interested in finding and spreading the truth and not misinformation so it was a bit difficult for me to think of something to do on April Fool's day until this year actually. And, of course, credit where credit is due, it was not solely my idea.
+
+* How Did This "Chimkin" Thing Get Started?
+I approached the only other active member of Onigiri*Onegai and said I wanted to do something to the site for April Fool's and she said she had a dream where she had started selling chicken sandwhiches and had come to me to build her a website so I said, why not do that? She liked the idea, but things hit a bit of a snag. I said I wanted to make sure it would work in old browsers so I was going to take down the Hugo we run. She wanted to make sure everything was reversable, so I said I wouldn't take them down, but just change a few configuration files. I forgot exactly how I had set up the production server though, so, well things were a bit more tricky than I thought and took longer than I wanted. It also didn't help that I forgot about this until the 1st. So what we ended up with wasn't exactly what we wanted, but I think it did the trick for this year. I have assured Yayoi that things will be much more polished if we do this again next year. She seemed content with that. We'll see if we do something like this again.
+
+* In Other News
+A lot has been happening for me and I don't have much time for website updates. I still need to show off my new rice for Hyprland, even though I'm not in a graphical environment much anymore. That's right! Let's go Linux Console! Yeah I mean those ~/dev/tty~ devices we all have on our GNU/Linux machines. I figured, as long as I am mostly in emacs and don't need a graphical stack then that will work just fine and so I don't spend much time in Hyprland these days. I mostly just use emacs as a sort of operating environment in the TTY and only start Hyprland if I need to do something like preview this site in a graphical browser. I even do a lot of web searches right in the TTY thanks to ~ddgr~ and ~elinks~. I do still have a new rice for Hyprland to show off though, and will, hopefully get it up soon.
+
+As for any other news, well, life goes on. Still just working and trying to make the most of my free time watching anime or playing video games. I actually used to be a pretty big fan of anime back in college, but that changed when life got busy, and I rarely watched a single new thing. I'm trying to change that though. I've gone back to some old shows and have managed to get my hands on a couple new ones. I do hope to spend a bit more time working on this website, but I won't promise anything right now.
