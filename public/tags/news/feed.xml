@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.123.7">Hugo</generator>
     <title>News on Onigiri☆Onegai</title>
-            <link href="http://onigirionegai.info/tags/news/" rel="alternate" type="text/html" title="html" />
-            <link href="http://onigirionegai.info/tags/news/feed.xml" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2024-04-04T12:08:09-07:00</updated>
-    <id>http://onigirionegai.info/tags/news/</id>
+            <link href="http://localhost:1313/tags/news/" rel="alternate" type="text/html" title="html" />
+            <link href="http://localhost:1313/tags/news/feed.xml" rel="self" type="application/atom+xml" title="atom" />
+    <updated>2024-05-10T19:41:50-07:00</updated>
+    <id>http://localhost:1313/tags/news/</id>
         <entry>
             <title>April Fools</title>
-            <link href="http://onigirionegai.info/post/april-fools/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/april-fools/</id>
+            <link href="http://localhost:1313/post/april-fools/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/april-fools/</id>
             <published>2024-04-04T09:04:49-07:00</published>
             <updated>2024-04-04T09:04:49-07:00</updated>
             <content type="html">
@@ -44,14 +44,14 @@ As for any other news, well, life goes on. Still just working and trying to make
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" /> 
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
-                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://localhost:1313/tags/site" term="site" label="site" /> 
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
+                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>Yuzu Is Dead</title>
-            <link href="http://onigirionegai.info/post/yuzu-is-dead/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/yuzu-is-dead/</id>
+            <link href="http://localhost:1313/post/yuzu-is-dead/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/yuzu-is-dead/</id>
             <published>2024-03-06T19:37:27-08:00</published>
             <updated>2024-03-06T19:37:27-08:00</updated>
             <content type="html">
@@ -96,13 +96,13 @@ What Can be Done?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
-                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
+                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>Forums moving to GitHub Discussions</title>
-            <link href="http://onigirionegai.info/post/forums-github/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/forums-github/</id>
+            <link href="http://localhost:1313/post/forums-github/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/forums-github/</id>
             <published>2023-11-16T12:26:36-08:00</published>
             <updated>2023-11-16T12:26:36-08:00</updated>
             <content type="html">
@@ -138,13 +138,13 @@ List of Discussions
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" /> 
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" />
+                                <category scheme="http://localhost:1313/tags/site" term="site" label="site" /> 
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" />
         </entry>
         <entry>
             <title>&#34;Macs Can&#39;t Game&#34;</title>
-            <link href="http://onigirionegai.info/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/mac-gaming/</id>
+            <link href="http://localhost:1313/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/mac-gaming/</id>
             <published>2023-09-27T18:40:52-07:00</published>
             <updated>2023-09-27T18:40:52-07:00</updated>
             <content type="html">
@@ -208,13 +208,13 @@ What next?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
-                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
+                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>Site Look</title>
-            <link href="http://onigirionegai.info/post/site-look/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/site-look/</id>
+            <link href="http://localhost:1313/post/site-look/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/site-look/</id>
             <published>2023-09-14T12:47:20-07:00</published>
             <updated>2023-09-14T12:47:20-07:00</updated>
             <content type="html">
@@ -229,13 +229,13 @@ It has been a couple of weeks now since I have changed the purpose of this site.
 While I would love to tell you that I have more news, it has been a bit slow on that front today. I am looking at other sites and pages to showcase though. I&amp;#39;ve been catching up on anime and trying to help some friends, so I haven&amp;#39;t had as much time to go through some of the suggestions. I&amp;#39;ll have something up for next week though. Right now, let&amp;#39;s enjoy the break :smile:&lt;/p&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
-                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" />
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
+                                <category scheme="http://localhost:1313/tags/site" term="site" label="site" />
         </entry>
         <entry>
             <title>Site Showcase: 03 Sep 2023</title>
-            <link href="http://onigirionegai.info/post/showcase/03Sep2023/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/showcase/03Sep2023/</id>
+            <link href="http://localhost:1313/post/showcase/03Sep2023/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/showcase/03Sep2023/</id>
             <published>2023-09-03T12:10:10-07:00</published>
             <updated>2023-09-03T12:10:10-07:00</updated>
             <content type="html">
@@ -250,7 +250,7 @@ Without further ado, let&amp;#39;s talk about Yayoi! Well, more specifically, we
 Anyway, I hope you give her a change. Check out the original post on her &lt;a href=&#34;https://onigirionegai.info/~yayoi/gallery/commissions/&#34;&gt;website&lt;/a&gt; for more information on how to commission her. Also check out our &lt;a href=&#34;https://forums.onigirionegai.info&#34;&gt;forums&lt;/a&gt; if you would like to discuss this showcase or suggests other things you would like us to cover!&lt;/p&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" /> 
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" />
+                                <category scheme="http://localhost:1313/tags/site" term="site" label="site" /> 
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" />
         </entry>
 </feed>

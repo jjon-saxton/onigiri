@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.123.7">Hugo</generator>
     <title>Blog on Onigiri☆Onegai</title>
-            <link href="http://onigirionegai.info/tags/blog/" rel="alternate" type="text/html" title="html" />
-            <link href="http://onigirionegai.info/tags/blog/feed.xml" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2024-04-04T12:08:09-07:00</updated>
-    <id>http://onigirionegai.info/tags/blog/</id>
+            <link href="http://localhost:1313/tags/blog/" rel="alternate" type="text/html" title="html" />
+            <link href="http://localhost:1313/tags/blog/feed.xml" rel="self" type="application/atom+xml" title="atom" />
+    <updated>2024-05-10T19:41:50-07:00</updated>
+    <id>http://localhost:1313/tags/blog/</id>
         <entry>
             <title>April Fools</title>
-            <link href="http://onigirionegai.info/post/april-fools/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/april-fools/</id>
+            <link href="http://localhost:1313/post/april-fools/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/april-fools/</id>
             <published>2024-04-04T09:04:49-07:00</published>
             <updated>2024-04-04T09:04:49-07:00</updated>
             <content type="html">
@@ -44,14 +44,14 @@ As for any other news, well, life goes on. Still just working and trying to make
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" /> 
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
-                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://localhost:1313/tags/site" term="site" label="site" /> 
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
+                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>Yuzu Is Dead</title>
-            <link href="http://onigirionegai.info/post/yuzu-is-dead/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/yuzu-is-dead/</id>
+            <link href="http://localhost:1313/post/yuzu-is-dead/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/yuzu-is-dead/</id>
             <published>2024-03-06T19:37:27-08:00</published>
             <updated>2024-03-06T19:37:27-08:00</updated>
             <content type="html">
@@ -96,13 +96,13 @@ What Can be Done?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
-                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
+                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>&#34;Macs Can&#39;t Game&#34;</title>
-            <link href="http://onigirionegai.info/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://onigirionegai.info/post/mac-gaming/</id>
+            <link href="http://localhost:1313/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/mac-gaming/</id>
             <published>2023-09-27T18:40:52-07:00</published>
             <updated>2023-09-27T18:40:52-07:00</updated>
             <content type="html">
@@ -166,7 +166,7 @@ What next?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
-                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
+                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
         </entry>
 </feed>
