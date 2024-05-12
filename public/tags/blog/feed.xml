@@ -4,8 +4,58 @@
     <title>Blog on Onigiri☆Onegai</title>
             <link href="http://localhost:1313/tags/blog/" rel="alternate" type="text/html" title="html" />
             <link href="http://localhost:1313/tags/blog/feed.xml" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2024-05-10T19:41:50-07:00</updated>
+    <updated>2024-05-11T18:19:05-07:00</updated>
     <id>http://localhost:1313/tags/blog/</id>
+        <entry>
+            <title>Living With/in Garuda</title>
+            <link href="http://localhost:1313/post/living-with-in-garuda/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://localhost:1313/post/living-with-in-garuda/</id>
+            <published>2024-05-10T19:53:58-07:00</published>
+            <updated>2024-05-10T19:53:58-07:00</updated>
+            <content type="html">
+                
+&lt;p&gt;
+My main computer is actually a Manjaro Linux with Hyprland install. I like Hyprland, its a really good Wayland compositor. The problem is the main computer actually has an Nvidia graphics card and the drivers and/or Wayland itself just isn&amp;#39;t ready for Nvidia. I&amp;#39;ll go into the full set up later, but, I have a way around this and that&amp;#39;s a Garuda Linux VM.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Playing with Virtual Machines
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;I&amp;#39;ve always had some odd perverse pleasure in running machines within machines. I&amp;#39;ve been trying to do that for many years, starting with trying to run Windows 3.11 for Workgroups in a Windows 7 machine. I kept this up for sometime, sometimes emulating totally different architectures and sometimes just virtualizing other operating systems and environments. Recently it was Windows 10 on Linux using QEMU/KVM and a GPU passthrough. I rarely use that machine, but I do sometimes need it to benchmark games and compare them to running on Linux, it was for this reason that I thought of playing with a Linux VM also passing through the Nvidia card. This way I don&amp;#39;t have to use something like single GPU passthrough to keep using the Windows 10 VM. Technically the machine does have &lt;em&gt;two&lt;/em&gt; graphics cards.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+Giving the Host and Hyprland Intel Graphics
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;The machine has integrated Intel HD Graphics. While only suited for the lightest of gaming, it does work very well for running a modern compositor. The machine is used mostly for coding and school work so it works well for that and Wayland has no problem with the intel drivers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-3&#34;&gt;
+Gaming in Garuda
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;I set Garuda Linux up by cloning the Windows VM, swapping the disk image for a physical drive and then installing Garuda through the live environment. This got me a bunch of things I didn&amp;#39;t need to run games, at least not the kinds I wanted to run, but they weren&amp;#39;t hard to remove. I set up the VM to auto login and boot up Steam in Big Picture mode so it could be ready to launch a game right away.&lt;/p&gt;
+&lt;p&gt;
+So far, even though this a VM, it works very well with Garuda. This is likely because cloning the Windows machine meant that I also cloned the GPU passthrough set up so Garuda gets a full Graphics card. I heard that distros like Garuda would normally not run well in a VM.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-4&#34;&gt;
+Living &lt;del&gt;With&lt;/del&gt; in Garuda
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;I&amp;#39;ve taken to do a bit more in the KDE desktop environment in Garuda. Usually I start the Garuda VM up and just leave it up on the weekend so if I do any web browsing or other work its inside Garuda. I haven&amp;#39;t customized the theme yet, I like everything about the default them and would probably only change the wallpaper…eventually.&lt;/p&gt;
+&lt;p&gt;
+Anyway, that&amp;#39;s what I have to say about living in Garuda. So far it is a solid gaming, coding, and browsing experience. If I &lt;em&gt;do&lt;/em&gt; customize the the theme, I&amp;#39;ll be sure to share screenshots!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+            </content>   
+                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
+        </entry>
         <entry>
             <title>April Fools</title>
             <link href="http://localhost:1313/post/april-fools/" rel="alternate" type="text/html"  hreflang="en" />
