@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.123.7">Hugo</generator>
     <title>Blog on Onigiri☆Onegai</title>
-            <link href="http://localhost:1313/tags/blog/" rel="alternate" type="text/html" title="html" />
-            <link href="http://localhost:1313/tags/blog/feed.xml" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2024-05-11T18:19:05-07:00</updated>
-    <id>http://localhost:1313/tags/blog/</id>
+            <link href="http://onigirionegai.info/tags/blog/" rel="alternate" type="text/html" title="html" />
+            <link href="http://onigirionegai.info/tags/blog/feed.xml" rel="self" type="application/atom+xml" title="atom" />
+    <updated>2024-05-11T18:30:47-07:00</updated>
+    <id>http://onigirionegai.info/tags/blog/</id>
         <entry>
             <title>Living With/in Garuda</title>
-            <link href="http://localhost:1313/post/living-with-in-garuda/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost:1313/post/living-with-in-garuda/</id>
+            <link href="http://onigirionegai.info/post/living-with-in-garuda/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/living-with-in-garuda/</id>
             <published>2024-05-10T19:53:58-07:00</published>
             <updated>2024-05-10T19:53:58-07:00</updated>
             <content type="html">
@@ -29,7 +29,7 @@ Playing with Virtual Machines
 Giving the Host and Hyprland Intel Graphics
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;The machine has integrated Intel HD Graphics. While only suited for the lightest of gaming, it does work very well for running a modern compositor. The machine is used mostly for coding and school work so it works well for that and Wayland has no problem with the intel drivers.&lt;/p&gt;
+&lt;p&gt;The machine has integrated Intel HD Graphics. While only suited for the lightest of gaming, it does work very well for running a modern compositor. The machine is used mostly for coding and office work so it works well for that and Wayland has no problem with the Intel drivers.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-2&#34;&gt;
@@ -39,7 +39,7 @@ Gaming in Garuda
 &lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-2&#34;&gt;
 &lt;p&gt;I set Garuda Linux up by cloning the Windows VM, swapping the disk image for a physical drive and then installing Garuda through the live environment. This got me a bunch of things I didn&amp;#39;t need to run games, at least not the kinds I wanted to run, but they weren&amp;#39;t hard to remove. I set up the VM to auto login and boot up Steam in Big Picture mode so it could be ready to launch a game right away.&lt;/p&gt;
 &lt;p&gt;
-So far, even though this a VM, it works very well with Garuda. This is likely because cloning the Windows machine meant that I also cloned the GPU passthrough set up so Garuda gets a full Graphics card. I heard that distros like Garuda would normally not run well in a VM.&lt;/p&gt;
+So far, even though this is a VM, it works very well with Garuda. This is likely because cloning the Windows machine meant that I also cloned the GPU passthrough set up so Garuda gets a full Graphics card. I heard that distros like Garuda would normally not run well in a VM.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-2&#34;&gt;
@@ -47,19 +47,19 @@ So far, even though this a VM, it works very well with Garuda. This is likely be
 Living &lt;del&gt;With&lt;/del&gt; in Garuda
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;I&amp;#39;ve taken to do a bit more in the KDE desktop environment in Garuda. Usually I start the Garuda VM up and just leave it up on the weekend so if I do any web browsing or other work its inside Garuda. I haven&amp;#39;t customized the theme yet, I like everything about the default them and would probably only change the wallpaper…eventually.&lt;/p&gt;
+&lt;p&gt;I&amp;#39;ve taken to do a bit more in the KDE desktop environment in Garuda. Usually I start the Garuda VM up and just leave it up on the weekend so if I do any web browsing or other work its inside Garuda. I haven&amp;#39;t customized the theme yet, I like everything about the default theme and would probably only change the wallpaper, so it&amp;#39;ll just stay the way it is for now.&lt;/p&gt;
 &lt;p&gt;
-Anyway, that&amp;#39;s what I have to say about living in Garuda. So far it is a solid gaming, coding, and browsing experience. If I &lt;em&gt;do&lt;/em&gt; customize the the theme, I&amp;#39;ll be sure to share screenshots!&lt;/p&gt;
+Anyway, that&amp;#39;s what I have to say about living in Garuda. So far it is a solid gaming, coding, and browsing experience. If I &lt;em&gt;do&lt;/em&gt; customize the the theme, I&amp;#39;ll be sure to share screenshots.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>April Fools</title>
-            <link href="http://localhost:1313/post/april-fools/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost:1313/post/april-fools/</id>
+            <link href="http://onigirionegai.info/post/april-fools/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/april-fools/</id>
             <published>2024-04-04T09:04:49-07:00</published>
             <updated>2024-04-04T09:04:49-07:00</updated>
             <content type="html">
@@ -94,14 +94,14 @@ As for any other news, well, life goes on. Still just working and trying to make
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://localhost:1313/tags/site" term="site" label="site" /> 
-                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
-                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://onigirionegai.info/tags/site" term="site" label="site" /> 
+                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
+                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>Yuzu Is Dead</title>
-            <link href="http://localhost:1313/post/yuzu-is-dead/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost:1313/post/yuzu-is-dead/</id>
+            <link href="http://onigirionegai.info/post/yuzu-is-dead/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/yuzu-is-dead/</id>
             <published>2024-03-06T19:37:27-08:00</published>
             <updated>2024-03-06T19:37:27-08:00</updated>
             <content type="html">
@@ -146,13 +146,13 @@ What Can be Done?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
-                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
+                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
         </entry>
         <entry>
             <title>&#34;Macs Can&#39;t Game&#34;</title>
-            <link href="http://localhost:1313/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost:1313/post/mac-gaming/</id>
+            <link href="http://onigirionegai.info/post/mac-gaming/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/mac-gaming/</id>
             <published>2023-09-27T18:40:52-07:00</published>
             <updated>2023-09-27T18:40:52-07:00</updated>
             <content type="html">
@@ -216,7 +216,7 @@ What next?
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://localhost:1313/tags/news" term="news" label="news" /> 
-                                <category scheme="http://localhost:1313/tags/blog" term="blog" label="blog" />
+                                <category scheme="http://onigirionegai.info/tags/news" term="news" label="news" /> 
+                                <category scheme="http://onigirionegai.info/tags/blog" term="blog" label="blog" />
         </entry>
 </feed>

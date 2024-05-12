@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.123.7">Hugo</generator>
     <title>Rice on Onigiri☆Onegai</title>
-            <link href="http://localhost:1313/tags/rice/" rel="alternate" type="text/html" title="html" />
-            <link href="http://localhost:1313/tags/rice/feed.xml" rel="self" type="application/atom+xml" title="atom" />
-    <updated>2024-05-11T18:19:05-07:00</updated>
-    <id>http://localhost:1313/tags/rice/</id>
+            <link href="http://onigirionegai.info/tags/rice/" rel="alternate" type="text/html" title="html" />
+            <link href="http://onigirionegai.info/tags/rice/feed.xml" rel="self" type="application/atom+xml" title="atom" />
+    <updated>2024-05-11T18:30:47-07:00</updated>
+    <id>http://onigirionegai.info/tags/rice/</id>
         <entry>
             <title>Hyprland, Waybar, and a little Dracula</title>
-            <link href="http://localhost:1313/post/hyprland-waybar/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>http://localhost:1313/post/hyprland-waybar/</id>
+            <link href="http://onigirionegai.info/post/hyprland-waybar/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>http://onigirionegai.info/post/hyprland-waybar/</id>
             <published>2023-09-05T16:26:34-07:00</published>
             <updated>2023-09-05T16:26:34-07:00</updated>
             <content type="html">
@@ -61,6 +61,6 @@ Github
 &lt;/div&gt;
 
             </content>   
-                                <category scheme="http://localhost:1313/tags/rice" term="rice" label="rice" />
+                                <category scheme="http://onigirionegai.info/tags/rice" term="rice" label="rice" />
         </entry>
 </feed>
